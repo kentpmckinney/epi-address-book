@@ -31,18 +31,6 @@ Git (optional but recommended)
 2. Navigate to the folder location of the source files in Finder or in the Terminal
 3. Launch a web browser so that it opens index.html
 
-## Running Automated Tests
-
-how to run the automated tests
-
-```
-example
-```
-
-## Deployment
-
-
-
 ## Technologies Used
 
 * JavaScript

@@ -1,4 +1,4 @@
-<!-- Category: Epicodus;HTML/CSS/JS;Bootstrap -->
+<!-- Category: Epicodus;HTML/CSS/JS -->
 # Address Book
 
 Creates and maintains a list of contact information

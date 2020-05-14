@@ -45,4 +45,4 @@ Kent McKinney - [GitHub](https://github.com/kentpmckinney) - [LinkedIn](https://
 
 ## Acknowledgments
 
-https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/practice-form-input-types
+https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account

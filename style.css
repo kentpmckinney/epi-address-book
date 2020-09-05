@@ -1,0 +1,50 @@
+body {
+  margin: 10px;
+}
+
+table {
+  height: auto;
+}
+
+#show-contact {
+  display: none;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 0px;
+}
+
+.form {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.list {
+  grid-area: 1 / 2 / 2 / 3;
+}
+
+#contacts-table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#contacts-table td, #contacts-table th {
+  border: 1px solid #ddd;
+  padding: 6px;
+}
+
+#contacts-table tr:nth-child(even){background-color: #f2f2f2;}
+
+#contacts-table tr:hover {background-color: lightgray;}
+
+#contacts-table th {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: left;
+  background-color: darkgray;
+  color: white;
+}

@@ -3,49 +3,54 @@
 
 <head>
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
-  <link href="styles.css" rel="stylesheet" type="text/css">
+  <link href="style.css" rel="stylesheet" type="text/css">
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
-  <script src="scripts.js"></script>
+  <script src="script.js"></script>
   <title>Address Book</title>
 </head>
 
 <body>
-  <div class="container">
-    <h1>Address Book</h1>
-    <div class="row">
-      <div class="col-md-6">
-        <hr>
-        <h2>Add a Contact:</h2>
-        <form id="new-contact">
-          <div class="form-group">
-            <label for="new-first-name">First Name</label>
-            <input type="text" class="form-control" id="new-first-name">
-          </div>
-          <div class="form-group">
-            <label for="new-last-name">Last Name</label>
-            <input type="text" class="form-control" id="new-last-name">
-          </div>
-          <div class="form-group">
-            <label for="new-phone-number">Phone Number</label>
-            <input type="text" class="form-control" id="new-phone-number">
-          </div>
-          <button type="submit" class="btn-primary">Add</button>
-        </form>
-        <hr>
-        <h2>Contacts:</h2>
-        <ul id="contacts">
-        </ul>
-      </div>
-      <div class="col-md-6">
-        <div id="show-contact">
-          <p>First Name: <span class="first-name"></span></p>
-          <p>Last Name: <span class="last-name"></span></p>
-          <p>Phone Number: <span class="phone-number"></span></p>
-          <div id="buttons">
+  <div class="container grid-container font-weight-light">
+    <form id="new-contact">
+      <div class="form card">
+        <h5 class="card-header">Add a Contact</h5>
+        <div class="card-body">
+          <div class="card-text">
+            <div class="form-group">
+              <label for="new-first-name">First Name</label>
+              <input type="text" class="form-control" id="new-first-name">
+            </div>
+            <div class="form-group">
+              <label for="new-last-name">Last Name</label>
+              <input type="text" class="form-control" id="new-last-name">
+            </div>
+            <div class="form-group">
+              <label for="new-phone-number">Phone Number</label>
+              <input type="text" class="form-control" id="new-phone-number">
+            </div>
           </div>
         </div>
+        <div class="card-footer">
+          <button type="submit" class="btn btn-outline-secondary btn-block">Add</button>
+        </div>
       </div>
+    </form>
+    <div class="list">
+        <div class="table-responsive">
+          <table id="contacts-table">
+              <thead style="border: 1px dotted lightgray;">
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">First</th>
+                  <th scope="col">Last</th>
+                  <th scope="col">Phone Number</th>
+                </tr>
+              </thead>
+              <tbody id="contacts">
+              </tbody>
+            </table>
+        </div>
     </div>
   </div>
 </body>

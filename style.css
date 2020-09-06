@@ -17,6 +17,10 @@ body {
   grid-area: 1 / 2 / 2 / 3;
 }
 
+input:hover {
+  background-color: lightgray;
+}
+
 #contacts-table {
   border-collapse: collapse;
   width: 100%;

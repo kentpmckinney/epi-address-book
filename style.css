@@ -18,9 +18,9 @@ body {
 }
 
 #contacts-table {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
+  font-weight: lighter;
 }
 
 #contacts-table td, #contacts-table th {

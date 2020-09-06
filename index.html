@@ -13,7 +13,7 @@
 <body>
   <div class="container grid-container font-weight-light">
     <form id="new-contact">
-      <div class="form card">
+      <div class="left card">
         <h5 class="card-header">Add a Contact</h5>
         <div class="card-body">
           <div class="card-text">
@@ -36,21 +36,19 @@
         </div>
       </div>
     </form>
-    <div class="list">
-        <div class="table-responsive">
-          <table id="contacts-table">
-              <thead style="border: 1px dotted lightgray;">
-                <tr>
-                  <th scope="col">#</th>
-                  <th scope="col">First</th>
-                  <th scope="col">Last</th>
-                  <th scope="col">Phone Number</th>
-                </tr>
-              </thead>
-              <tbody id="contacts">
-              </tbody>
-            </table>
-        </div>
+    <div class="right">
+      <table id="contacts-table">
+        <thead style="border: 1px dotted lightgray;">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Phone Number</th>
+          </tr>
+        </thead>
+        <tbody id="contacts">
+        </tbody>
+      </table>
     </div>
   </div>
 </body>

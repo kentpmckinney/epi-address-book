@@ -29,7 +29,7 @@ input:hover {
 
 #contacts-table td, #contacts-table th {
   border: 1px solid #ddd;
-  padding: 6px;
+  padding: 5px;
 }
 
 #contacts-table tr:nth-child(even){background-color: #f2f2f2;}
@@ -37,8 +37,8 @@ input:hover {
 #contacts-table tr:hover {background-color: lightgray;}
 
 #contacts-table th {
-  padding-top: 6px;
-  padding-bottom: 6px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   text-align: left;
   background-color: darkgray;
   color: white;

@@ -15,7 +15,7 @@ JavaScript;HTML;CSS
 
 ### Working with the Source Code
 
-<details>
+<details style='margin-left: 20px'>
   <summary>Instructions</summary>
 
   <br>

@@ -22,15 +22,11 @@ JavaScript;HTML;CSS
 
   The following software must be installed and properly configured on the target machine. 
 
-  ```
-  An updated web browser (Internet Explorer is not compatible)
-  ```
-  ```
-  Node.js
-  ```
-  ```
-  Git (optional but recommended)
-  ```
+  <ul>
+    <li>An updated web browser (Internet Explorer is not compatible)</li>
+    <li>Node.js</li>
+    <li>Git (optional but recommended)</li>
+  </ul>
 
   ### Setting up a Development Environment
 

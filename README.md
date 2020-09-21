@@ -3,11 +3,11 @@
 
 An application to store contact names, phone numbers, and email addresses
 
-  <code>https://github.com/kentpmckinney/epi-address-book</code>
+    https://github.com/kentpmckinney/epi-address-book
 
 ### Previewing this Project
 
-This project is hosted at: https://kentpmckinney.github.io/epi-address-book
+This project is hosted at: <code>https://kentpmckinney.github.io/epi-address-book</code>
 
 ### Technologies Used
 

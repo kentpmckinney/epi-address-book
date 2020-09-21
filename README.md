@@ -32,11 +32,11 @@ A live demo of this application is available [on GitHub Pages](https://kentpmcki
   ### Setting up a Development Environment
 
   1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book
-    or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git</li>
-  1. Navigate to the folder location of the source files in Finder or in the Terminal</li>
-  1. Run the command <code>npm install</code> to download a local cache of the npm packages used by this application</li>
-  1. Build the application with the command <code>npm run build</code></li>
-  1. Start the application with the command <code>npm run start</code></li>
+    or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git
+  1. Navigate to the folder location of the source files in Finder or in the Terminal
+  1. Run the command <code>npm install</code> to download a local cache of the npm packages used by this application
+  1. Build the application with the command <code>npm run build</code>
+  1. Start the application with the command <code>npm run start</code>
 
   ### Deployment
 

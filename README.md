@@ -1,6 +1,5 @@
 
-Address Book
-===
+# Address Book
 
 An application to store contact names, phone numbers, and email addresses
 
@@ -47,11 +46,11 @@ A live demo of this application is available [at this location](https://kentpmck
 
 </details>
 
-##### Authors
+#### Authors
 
 [kentpmckinney](https://github.com/kentpmckinney)
 
-##### Acknowledgments
+#### Acknowledgments
 
 https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
 

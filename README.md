@@ -7,7 +7,7 @@ An application to store contact names, phone numbers, and email addresses
 
 ### Previewing this Project
 
-A live demo of this application is available (at this location)[https://kentpmckinney.github.io/epi-address-book]
+A live demo of this application is available [on GitHub Pages](https://kentpmckinney.github.io/epi-address-book)
 
 ### Technologies Used
 

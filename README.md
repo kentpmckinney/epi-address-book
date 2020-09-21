@@ -26,8 +26,8 @@ A live demo of this application is available [on GitHub Pages](https://kentpmcki
   The following software must be installed and properly configured on the target machine. 
 
   * An updated web browser (Internet Explorer may not be compatible)
-  * Node.js
-  * Git (optional)
+* Node.js
+* Git (optional)
 
   ### Setting up a Development Environment
 

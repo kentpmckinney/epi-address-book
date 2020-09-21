@@ -48,12 +48,12 @@ JavaScript;HTML;CSS
 
 </details>
 
-#### Authors
+##### Authors
 
 [Kent McKinney](https://github.com/kentpmckinney)
 
 ##### Acknowledgments
 
-<!--acknowledgement-->
+ACK
 
 ###### Copyright &copy; 2020 [Kent McKinney](https://github.com/kentpmckinney). All rights reserved.

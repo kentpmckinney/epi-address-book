@@ -11,9 +11,9 @@ A live demo of this application is available [on GitHub Pages](https://kentpmcki
 
 ### Technologies Used
 
-  <code> JavaScript
- HTML
- CSS</code>
+  <code> *JavaScript
+ *HTML
+ *CSS</code>
 
 ### Working with the Source Code
 

@@ -1,7 +1,7 @@
 
 # epi-address-book
 
-This is a test
+An application to store contact names, phone numbers, and email addresses
 
 https://github.com/kentpmckinney/epi-address-book
 
@@ -51,7 +51,7 @@ JavaScript;HTML;CSS
 
 [Kent McKinney](https://github.com/kentpmckinney)
 
-### Copyright &copy; <!--current_year--> <!--authors>. All rights reserved.
+### Copyright &copy; <!--current_year--> [Kent McKinney](https://github.com/kentpmckinney). All rights reserved.
 
 ## Acknowledgments
 

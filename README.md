@@ -7,7 +7,7 @@ https://github.com/kentpmckinney/epi-address-book
 
 ## Previewing this Project
 
-This project is hosted at: https://demo.html
+This project is hosted at: https://kentpmckinney.github.io/epi-address-book
 
 ## Technologies Used
 

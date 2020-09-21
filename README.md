@@ -13,9 +13,12 @@ This project is hosted at: https://kentpmckinney.github.io/epi-address-book
 
 JavaScript;HTML;CSS
 
-<details>
-  <summary>Working with the Source Code</summary>
+### Working with the Source Code
 
+<details>
+  <summary>Instructions</summary>
+
+  <br>
   The following instructions explain how to set up a development environment for this project on MacOS. Steps will differ depending on the operating system.
 
   ### Prerequisites

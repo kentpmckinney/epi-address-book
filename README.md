@@ -19,7 +19,7 @@ This project is hosted at: https://kentpmckinney.github.io/epi-address-book
   <summary>Instructions</summary>
 
   <br>
-  The following instructions explain how to set up a development environment for this project on MacOS. Steps will differ depending on the operating system.
+  The following are suggestions to help set up a development environment for this project on MacOS. Steps will differ depending on the operating system.
 
   ### Prerequisites
 
@@ -37,14 +37,14 @@ This project is hosted at: https://kentpmckinney.github.io/epi-address-book
     <li>Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book
       or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git</li>
     <li>Navigate to the folder location of the source files in Finder or in the Terminal</li>
-    <li>Run the command `npm install` to download a local cache of the npm packages used by this application</li>
-    <li>Build the application with the command `npm run build`</li>
-    <li>Start the application with the command `npm run start`</li>
+    <li>Run the command ```npm install``` to download a local cache of the npm packages used by this application</li>
+    <li>Build the application with the command ```npm run build```</li>
+    <li>Start the application with the command ```npm run start```</li>
   </ol>
 
   ### Deployment
 
-  Run the command 'npm run build' to build a production version of the application under ./build
+  Run the command ```npm run build``` to build a production version of the application under ```./build```
 
 </details>
 

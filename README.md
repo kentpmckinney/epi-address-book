@@ -35,7 +35,7 @@ JavaScript;HTML;CSS
   ### Setting up a Development Environment
 
   1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book
-    or clone using the repository link: this-is-a-test.git
+    or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git
   2. Navigate to the folder location of the source files in Finder or in the Terminal
   3. Run the command `npm install` to download a local cache of the npm packages used by this application
   4. Build the application with the command `npm run build`

@@ -52,8 +52,8 @@ JavaScript;HTML;CSS
 
 [Kent McKinney](https://github.com/kentpmckinney)
 
-#### Copyright &copy; 2020 [Kent McKinney](https://github.com/kentpmckinney). All rights reserved.
-
-#### Acknowledgments
+##### Acknowledgments
 
 <!--acknowledgement-->
+
+###### Copyright &copy; 2020 [Kent McKinney](https://github.com/kentpmckinney). All rights reserved.

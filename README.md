@@ -49,7 +49,7 @@ JavaScript;HTML;CSS
 
 ## Authors
 
-<!--authors-->
+[Kent McKinney](https://github.com/kentpmckinney)
 
 ### Copyright &copy; <!--current_year--> <!--authors>. All rights reserved.
 

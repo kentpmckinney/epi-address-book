@@ -3,7 +3,7 @@
 
 An application to store contact names, phone numbers, and email addresses
 
-`https://github.com/kentpmckinney/epi-address-book`
+    https://github.com/kentpmckinney/epi-address-book
 
 ### Previewing this Project
 

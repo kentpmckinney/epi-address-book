@@ -3,7 +3,7 @@
 
 An application to store contact names, phone numbers, and email addresses
 
-    https://github.com/kentpmckinney/epi-address-book
+  <code>https://github.com/kentpmckinney/epi-address-book</code>
 
 ### Previewing this Project
 
@@ -11,7 +11,7 @@ This project is hosted at: https://kentpmckinney.github.io/epi-address-book
 
 ### Technologies Used
 
-    JavaScript;HTML;CSS
+  <code>JavaScript;HTML;CSS</code>
 
 ### Working with the Source Code
 
@@ -44,7 +44,7 @@ This project is hosted at: https://kentpmckinney.github.io/epi-address-book
 
   ### Deployment
 
-  Run the command ```npm run build``` to build a production version of the application under ```./build```
+  Run the command <code>npm run build</code> to build a production version of the application under <code>./build</code>
 
 </details>
 

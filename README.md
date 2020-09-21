@@ -1,7 +1,7 @@
 
 # Address Book
 
-An application to store contact names, phone numbers, and email addresses
+> An application to store contact names, phone numbers, and email addresses
 
     https://github.com/kentpmckinney/epi-address-book
 
@@ -26,9 +26,9 @@ This project is hosted at: <code>https://kentpmckinney.github.io/epi-address-boo
   The following software must be installed and properly configured on the target machine. 
 
   <ul>
-    <li>An updated web browser (Internet Explorer is not compatible)</li>
+    <li>An updated web browser (Internet Explorer may not be compatible)</li>
     <li>Node.js</li>
-    <li>Git (optional but recommended)</li>
+    <li>Git (optional)</li>
   </ul>
 
   ### Setting up a Development Environment

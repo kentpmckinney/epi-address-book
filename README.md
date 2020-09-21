@@ -50,10 +50,10 @@ This project is hosted at: https://kentpmckinney.github.io/epi-address-book
 
 ##### Authors
 
-[kentpmckinney](https://github.com/kentpmckinney), [example123](https://github.com/example123)
+[kentpmckinney](https://github.com/kentpmckinney)
 
 ##### Acknowledgments
 
 https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
 
-###### Copyright &copy; 2020 [kentpmckinney](https://github.com/kentpmckinney), [example123](https://github.com/example123). All rights reserved.
+###### Copyright &copy; 2020 [kentpmckinney](https://github.com/kentpmckinney). All rights reserved.

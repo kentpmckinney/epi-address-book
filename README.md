@@ -1,13 +1,13 @@
 
 # Address Book
 
-> An application to store contact names, phone numbers, and email addresses
+An application to store contact names, phone numbers, and email addresses
 
-    https://github.com/kentpmckinney/epi-address-book
+> https://github.com/kentpmckinney/epi-address-book
 
 ### Previewing this Project
 
-This project is hosted at: <code>https://kentpmckinney.github.io/epi-address-book</code>
+This project is hosted at: `https://kentpmckinney.github.io/epi-address-book`
 
 ### Technologies Used
 

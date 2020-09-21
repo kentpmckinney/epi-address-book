@@ -37,9 +37,9 @@ This project is hosted at: https://kentpmckinney.github.io/epi-address-book
     <li>Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book
       or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git</li>
     <li>Navigate to the folder location of the source files in Finder or in the Terminal</li>
-    <li>Run the command <mark>npm install</mark> to download a local cache of the npm packages used by this application</li>
-    <li>Build the application with the command <mark>npm run build</mark></li>
-    <li>Start the application with the command <mark>npm run start</mark></li>
+    <li>Run the command <code>npm install</code> to download a local cache of the npm packages used by this application</li>
+    <li>Build the application with the command <code>npm run build</code></li>
+    <li>Start the application with the command <code>npm run start</code></li>
   </ol>
 
   ### Deployment

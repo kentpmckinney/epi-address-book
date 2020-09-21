@@ -1,15 +1,15 @@
 
-# epi-address-book
+# Address Book
 
 An application to store contact names, phone numbers, and email addresses
 
 https://github.com/kentpmckinney/epi-address-book
 
-## Previewing this Project
+### Previewing this Project
 
 This project is hosted at: https://kentpmckinney.github.io/epi-address-book
 
-## Technologies Used
+### Technologies Used
 
 JavaScript;HTML;CSS
 
@@ -41,18 +41,18 @@ JavaScript;HTML;CSS
   4. Build the application with the command `npm run build`
   5. Start the application with the command `npm run start`
 
-  ## Deployment
+  ### Deployment
 
   Run the command 'npm run build' to build a production version of the application under ./build
 
 </details>
 
-## Authors
+### Authors
 
 [Kent McKinney](https://github.com/kentpmckinney)
 
 ### Copyright &copy; 2020 [Kent McKinney](https://github.com/kentpmckinney). All rights reserved.
 
-## Acknowledgments
+### Acknowledgments
 
 <!--acknowledgement-->

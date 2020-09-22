@@ -1,26 +1,25 @@
 
 # Address Book
 
-https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
+
 
   <br/>
 
 ### How to Use
-https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
+
 
 <br/>
 
 ### Previewing this Project
 
-![Screenshot](https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account)
 
-A [live demo](https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account) of this application is available
+A [live demo](https://kentpmckinney.github.io/epi-address-book) of this application is available
 
 <br/>
 
 ### Technologies Used
 
-  <code>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</code>
+  <code></code>
   <br/>
   <br/>
 
@@ -65,7 +64,7 @@ A [live demo](https://www.learnhowtoprogram.com/intermediate-javascript/object-o
 
 #### Acknowledgments
 
-<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
+<sub></sub>
 <br/>
 <br/>
 

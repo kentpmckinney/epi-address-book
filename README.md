@@ -1,27 +1,26 @@
 
 # Address Book
 
-An application to store contact names, phone numbers, and email addresses
+https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
 
   <br/>
 
 ### How to Use
-
+https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
 
 <br/>
 
 ### Previewing this Project
 
+![Screenshot](https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account)
 
-A [live demo](https://kentpmckinney.github.io/epi-address-book) of this application is available
+A [live demo](https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account) of this application is available
 
 <br/>
 
 ### Technologies Used
 
-  <code>JavaScript
-HTML
-CSS</code>
+  <code>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</code>
   <br/>
   <br/>
 
@@ -48,14 +47,11 @@ CSS</code>
   The following steps are meant to be a quick way to get the project up and running.
 
   1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git
-1. Launch a new tab in a web browser
-1. Select to open a file location and navigate to the folder location of the source files
-1. Choose the file <code>index.html</code>
   <br/>
 
   ### Deployment
 
-  The files provided are ready to be deployed directly to a web server.
+  
 
 </details>
 

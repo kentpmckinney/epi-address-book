@@ -6,9 +6,7 @@ An application to store contact names, phone numbers, and email addresses
   <br/>
 
 ### How to Use
-Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
-The entry should appear on the table to the right.
-Press the <code>X</code> button to delete an entry that is no longer needed.
+
 
 <br/>
 
@@ -39,7 +37,7 @@ Bootstrap</code>
 
   <br/>
   <br/>
-  
+
   ### Prerequisites
 
   The following software must be installed and properly configured on the target machine. 
@@ -74,7 +72,7 @@ Bootstrap</code>
 
 ### Acknowledgments
 
-<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
+<sub></sub>
 <br/>
 <br/>
 

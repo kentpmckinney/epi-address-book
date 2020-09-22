@@ -6,13 +6,15 @@ An application to store contact names, phone numbers, and email addresses
   <br/>
 
 ### How to Use
-
+Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
+The entry should appear on the table to the right.
+Press the <code>X</code> button to delete an entry that is no longer needed.
 
 <br/>
 
 ### Previewing this Project
 
-A [live demo](https://test.html) of this application is available
+A [live demo](https://kentpmckinney.github.io/epi-address-book) of this application is available
 
 
 <br/>
@@ -72,7 +74,7 @@ Bootstrap</code>
 
 ### Acknowledgments
 
-<sub></sub>
+<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
 <br/>
 <br/>
 

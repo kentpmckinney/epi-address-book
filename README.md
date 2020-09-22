@@ -6,7 +6,7 @@ An application to store contact names, phone numbers, and email addresses
   <br/>
 
 ### How to Use
-Fill out the fields under 'Add a Contact' and press the Add button. The entry should appear on the table to the right. Press the 'X' button to delete an entry that is no longer needed.
+
 
 <br/>
 

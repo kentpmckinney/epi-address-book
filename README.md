@@ -1,38 +1,21 @@
 
 # Address Book
 
-An application to store contact names, phone numbers, and email addresses`
-Howto: `Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
-The entry should appear on the table to the right.
-Press the <code>X</code> button to delete an entry that is no longer needed.`
-Demolink: ``
-Screenshots: ``
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
-
+An application to store contact names, phone numbers, and email addresses
 
   <br/>
 
 ### How to Use
 Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
 The entry should appear on the table to the right.
-Press the <code>X</code> button to delete an entry that is no longer needed.`
-Demolink: ``
-Screenshots: ``
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
-
+Press the <code>X</code> button to delete an entry that is no longer needed.
 
 <br/>
 
 ### Previewing this Project
 
-![Screenshot](`
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
-)
 
-A [live demo](`
-Screenshots: ``
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
-) of this application is available
+A [live demo](https://kentpmckinney.github.io/epi-address-book) of this application is available
 
 <br/>
 
@@ -40,15 +23,7 @@ Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/obje
 
   <code>JavaScript
 HTML
-CSS`
-Summary: `An application to store contact names, phone numbers, and email addresses`
-Howto: `Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
-The entry should appear on the table to the right.
-Press the <code>X</code> button to delete an entry that is no longer needed.`
-Demolink: ``
-Screenshots: ``
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
-</code>
+CSS</code>
   <br/>
   <br/>
 
@@ -96,8 +71,7 @@ Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/obje
 
 #### Acknowledgments
 
-<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
-</sub>
+<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
 <br/>
 <br/>
 

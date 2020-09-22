@@ -25,7 +25,7 @@ CSS</code>
   <summary>Instructions</summary>
 
   <br>
-  The following are suggestions to help set up a development environment for this project. Steps will differ slightly depending on the operating system.
+  The following are suggestions to help set up a development environment for this project. The actual steps needed may differ slightly depending on the operating system and other factors.
 
   ### Prerequisites
 
@@ -36,6 +36,8 @@ CSS</code>
 
   ### Setting up a Development Environment
 
+  The following steps are meant to be a quick way to get the project up and running.
+
   1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git
 1. Launch a new tab in a web browser
 1. Select to open a file location and navigate to the folder location of the source files
@@ -43,7 +45,7 @@ CSS</code>
 
   ### Deployment
 
-  Run the command <code>npm run build</code> to build a production version of the application under <code>./build</code>
+  The files provided are ready to be deployed directly to a web server.
 
 </details>
 

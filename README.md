@@ -15,9 +15,9 @@ A [live demo](https://kentpmckinney.github.io/epi-address-book) of this applicat
 
 ### Technologies Used
 
-  <code> *JavaScript
- *HTML
- *CSS</code>
+  <code>JavaScript
+HTML
+CSS</code>
 
 ### Working with the Source Code
 
@@ -37,6 +37,9 @@ A [live demo](https://kentpmckinney.github.io/epi-address-book) of this applicat
   ### Setting up a Development Environment
 
   1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git
+1. Launch a new tab in a web browser
+1. Select to open a file location and navigate to the folder location of the source files
+1. Choose the file <code>index.html</code>
 
   ### Deployment
 

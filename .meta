@@ -1,8 +1,8 @@
-Category: `Epicodus;HTML/CSS/JS`
+Categories: `Epicodus;HTML/CSS/JS`
 Portfolio: `Yes`
+Technologies: `JavaScript;HTML;CSS`
+Summary: `An application to store contact names, phone numbers, and email addresses`
+Howto: `Fill out the fields under 'Add a Contact' and press the Add button. The entry should appear on the table to the right. Press the 'X' button to delete an entry that is no longer needed.`
+Demolink: ``
 Screenshots: ``
 Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
-Demolink: ``
-Summary: `An application to store contact names, phone numbers, and email addresses`
-Authors: `[Kent McKinney](https://github.com/kentpmckinney)`
-Technologies: `JavaScript;HTML;CSS`

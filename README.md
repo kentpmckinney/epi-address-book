@@ -14,8 +14,8 @@ Press the <code>X</code> button to delete an entry that is no longer needed.
 
 ### Previewing this Project
 
-
 A [live demo](https://kentpmckinney.github.io/epi-address-book) of this application is available
+
 
 <br/>
 

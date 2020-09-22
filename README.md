@@ -5,6 +5,8 @@ An application to store contact names, phone numbers, and email addresses
 
     https://github.com/kentpmckinney/epi-address-book
 
+  <br/>
+
 ### How to Use
 Fill out the fields under 'Add a Contact' and press the Add button. The entry should appear on the table to the right. Press the 'X' button to delete an entry that is no longer needed.
 
@@ -22,6 +24,7 @@ A [live demo](https://kentpmckinney.github.io/epi-address-book) of this applicat
   <code>JavaScript
 HTML
 CSS</code>
+  <br/>
   <br/>
 
 ### Working with the Source Code

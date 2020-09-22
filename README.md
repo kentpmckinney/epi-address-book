@@ -25,7 +25,7 @@ A [live demo](https://kentpmckinney.github.io/epi-address-book) of this applicat
   <summary>Instructions</summary>
 
   <br>
-  The following are suggestions to help set up a development environment for this project on MacOS. Steps will differ depending on the operating system.
+  The following are suggestions to help set up a development environment for this project. Steps will differ slightly depending on the operating system.
 
   ### Prerequisites
 

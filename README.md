@@ -3,8 +3,6 @@
 
 An application to store contact names, phone numbers, and email addresses
 
-    https://github.com/kentpmckinney/epi-address-book
-
   <br/>
 
 ### How to Use

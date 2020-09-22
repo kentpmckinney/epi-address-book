@@ -63,13 +63,13 @@ CSS</code>
 
 <br/>
 
-#### Authors
+### Authors
 
 [kentpmckinney](https://github.com/kentpmckinney)
 <br/>
 <br/>
 
-#### Acknowledgments
+### Acknowledgments
 
 <sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
 <br/>

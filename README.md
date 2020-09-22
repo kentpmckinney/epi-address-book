@@ -16,6 +16,7 @@ Press the <code>X</code> button to delete an entry that is no longer needed.
 
 A [live demo](https://kentpmckinney.github.io/epi-address-book) of this application is available
 
+![Screenshot](https://static.india.com/wp-content/uploads/2017/12/solar-eclipse-2.jpg)
 
 <br/>
 

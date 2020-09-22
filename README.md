@@ -23,7 +23,9 @@ A [live demo](https://kentpmckinney.github.io/epi-address-book) of this applicat
 
   <code>JavaScript
 HTML
-CSS</code>
+CSS
+jQuery
+Bootstrap</code>
   <br/>
   <br/>
 
@@ -40,6 +42,7 @@ CSS</code>
   ### Prerequisites
 
   The following software must be installed and properly configured on the target machine. 
+  <br/>
 
    * An updated web browser (Internet Explorer may not be compatible)
  * Git (recommended)

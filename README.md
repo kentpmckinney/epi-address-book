@@ -28,8 +28,7 @@ A [live demo](https://kentpmckinney.github.io/epi-address-book) of this applicat
   The following software must be installed and properly configured on the target machine. 
 
    * An updated web browser (Internet Explorer may not be compatible)
- * Node.js
- * Git (optional)
+ * Git (recommended)
 
   ### Setting up a Development Environment
 

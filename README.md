@@ -52,4 +52,4 @@ A [live demo](https://kentpmckinney.github.io/epi-address-book) of this applicat
 
 <sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
 
-###### Copyright&copy; 2020 [kentpmckinney](https://github.com/kentpmckinney). All rights reserved.
+###### <sub>Copyright&copy; 2020 [kentpmckinney](https://github.com/kentpmckinney). All rights reserved.</sub>

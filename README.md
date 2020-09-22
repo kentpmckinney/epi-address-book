@@ -1,26 +1,49 @@
 
 # Address Book
 
-https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
+An application to store contact names, phone numbers, and email addresses`
+Howto: `Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
+The entry should appear on the table to the right.
+Press the <code>X</code> button to delete an entry that is no longer needed.`
+Demolink: ``
+Screenshots: ``
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
 
   <br/>
 
 ### How to Use
-https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
+Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
+The entry should appear on the table to the right.
+Press the <code>X</code> button to delete an entry that is no longer needed.`
+Demolink: ``
+Screenshots: ``
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
 
 <br/>
 
 ### Previewing this Project
 
-![Screenshot](https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account)
+![Screenshot](`
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account)
 
-A [live demo](https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account) of this application is available
+A [live demo](`
+Screenshots: ``
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account) of this application is available
 
 <br/>
 
 ### Technologies Used
 
-  <code>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</code>
+  <code>JavaScript
+HTML
+CSS`
+Summary: `An application to store contact names, phone numbers, and email addresses`
+Howto: `Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
+The entry should appear on the table to the right.
+Press the <code>X</code> button to delete an entry that is no longer needed.`
+Demolink: ``
+Screenshots: ``
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</code>
   <br/>
   <br/>
 
@@ -47,11 +70,14 @@ A [live demo](https://www.learnhowtoprogram.com/intermediate-javascript/object-o
   The following steps are meant to be a quick way to get the project up and running.
 
   1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git
+1. Launch a new tab in a web browser
+1. Select to open a file location and navigate to the folder location of the source files
+1. Choose the file <code>index.html</code>
   <br/>
 
   ### Deployment
 
-  
+  The files provided are ready to be deployed directly to a web server.
 
 </details>
 

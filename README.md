@@ -7,7 +7,8 @@ The entry should appear on the table to the right.
 Press the <code>X</code> button to delete an entry that is no longer needed.`
 Demolink: ``
 Screenshots: ``
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
+
 
   <br/>
 
@@ -17,18 +18,21 @@ The entry should appear on the table to the right.
 Press the <code>X</code> button to delete an entry that is no longer needed.`
 Demolink: ``
 Screenshots: ``
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
+
 
 <br/>
 
 ### Previewing this Project
 
 ![Screenshot](`
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account)
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
+)
 
 A [live demo](`
 Screenshots: ``
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account) of this application is available
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
+) of this application is available
 
 <br/>
 
@@ -43,7 +47,8 @@ The entry should appear on the table to the right.
 Press the <code>X</code> button to delete an entry that is no longer needed.`
 Demolink: ``
 Screenshots: ``
-Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</code>
+Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
+</code>
   <br/>
   <br/>
 
@@ -91,7 +96,8 @@ Acknowledgement: `https://www.learnhowtoprogram.com/intermediate-javascript/obje
 
 #### Acknowledgments
 
-<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
+<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
+</sub>
 <br/>
 <br/>
 

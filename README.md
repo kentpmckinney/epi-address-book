@@ -74,7 +74,7 @@ Bootstrap</code>
 
 ### Acknowledgments
 
-<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
+<sub><!--acknowledgements--></sub>
 <br/>
 <br/>
 

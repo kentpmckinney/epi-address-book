@@ -44,8 +44,8 @@ Bootstrap</code>
 
   The following software must be installed and properly configured on the target machine. 
 
-   * An updated web browser (Internet Explorer may not be compatible)
- * Git (recommended)
+   * Git (recommended)
+ * An updated web browser (Internet Explorer may not be compatible)
   <br/>
 
   ### Setting up a Development Environment
@@ -57,6 +57,10 @@ Bootstrap</code>
 1. Select to open a file location and navigate to the folder location of the source files
 1. Choose the file <code>index.html</code>
   <br/>
+
+  ### Notes
+
+  
 
   ### Deployment
 
@@ -74,7 +78,7 @@ Bootstrap</code>
 
 ### Acknowledgments
 
-<sub><!--acknowledgements--></sub>
+<sub></sub>
 <br/>
 <br/>
 

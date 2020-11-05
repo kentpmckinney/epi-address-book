@@ -1,10 +1,10 @@
 Categories: `Epicodus;HTML/CSS/JS`
-Technologies: `JavaScript;HTML;CSS;jQuery;Bootstrap`
+Technologies: `HTML/CSS/JS;jQuery;Bootstrap`
 Summary: `An application to store contact names, phone numbers, and email addresses`
 Instructions: `Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
 The entry should appear on the table to the right.
 Press the <code>X</code> button to delete an entry that is no longer needed.`
 Demolink: ``
 Screenshots: ``
-Acknowledgements: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
+Acknowledgments: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
 Portfolio: `Yes`

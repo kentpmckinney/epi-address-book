@@ -4,7 +4,12 @@ Summary: `An application to store contact names, phone numbers, and email addres
 Instructions: `Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
 The entry should appear on the table to the right.
 Press the <code>X</code> button to delete an entry that is no longer needed.`
+Description: ``
 Demolink: ``
+Demo: `Yes`
+Source: `Yes`
+Notes: ``
 Screenshots: `http://kentpmckinney.github.io/epi-address-book/epi-address-book.gif`
 Acknowledgments: `https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account`
 Portfolio: `Yes`
+External: `No`

@@ -30,7 +30,7 @@ Bootstrap</code>
 <details markdown="1">
   <summary>Instructions</summary>
 
-  <br>
+  <br/>
   The following are suggestions to help set up a development environment for this project. The actual steps needed may differ slightly depending on the operating system and other factors.
 
   <br/>
@@ -73,8 +73,8 @@ Bootstrap</code>
 
 ### Acknowledgments
 
-<sub>https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
+<sub markdown="1">https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
 <br/>
 <br/>
 
-###### <sub>Copyright&copy; 2020 [kentpmckinney](https://github.com/kentpmckinney). All rights reserved.</sub>
+###### <sub markdown="1">Copyright&copy; 2020 [kentpmckinney](https://github.com/kentpmckinney). All rights reserved.</sub>

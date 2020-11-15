@@ -3,7 +3,7 @@
 
 An application to store contact names, phone numbers, and email addresses
 
-  <br/>
+<br/>
 
 ### How to Use
 Fill out the fields under <code>Add a Contact</code> and press the <code>Add</code> button.
@@ -21,11 +21,11 @@ A [live demo](https://kentpmckinney.github.io/epi-address-book) of this applicat
 
 ### Technologies Used
 
-  <code>HTML/CSS/JS
+<code>HTML/CSS/JS
 jQuery
 Bootstrap</code>
-  <br/>
-  <br/>
+<br/>
+<br/>
 
 ### Working with the Source Code
 
@@ -63,7 +63,7 @@ The following steps are meant to be a quick way to get the project up and runnin
 
 
 
-<!-- </details> -->
+</details>
 
 <br/>
 

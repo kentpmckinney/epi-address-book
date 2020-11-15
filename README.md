@@ -13,6 +13,8 @@ Press the <code>X</code> button to delete an entry that is no longer needed.
 <br/>
 
 ### Previewing this Project
+A [live demo](https://kentpmckinney.github.io/epi-address-book) of this application is available
+
 ![Screenshot](http://kentpmckinney.github.io/epi-address-book/epi-address-book.gif)
 
 <br/>
@@ -28,13 +30,13 @@ Bootstrap</code>
 ### Working with the Source Code
 
 <details markdown="1">
-  <summary>Instructions</summary>
+  <summary markdown="1">Instructions</summary>
 
-  <br/>
+  <br markdown="1"/>
   The following are suggestions to help set up a development environment for this project. The actual steps needed may differ slightly depending on the operating system and other factors.
 
-  <br/>
-  <br/>
+  <br markdown="1"/>
+  <br markdown="1"/>
 
   ### Prerequisites
 
@@ -43,7 +45,7 @@ Bootstrap</code>
   
 
 * Git (recommended)
-  <br/>
+  <br markdown="1"/>
 
   ### Setting up a Development Environment
 
@@ -51,7 +53,7 @@ Bootstrap</code>
 
   
 1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-address-book or clone using the repository link: https://github.com/kentpmckinney/epi-address-book.git
-  <br/>
+  <br markdown="1"/>
 
   ### Notes
 
@@ -63,18 +65,18 @@ Bootstrap</code>
 
 </details>
 
-<br/>
+<br markdown="1"/>
 
 ### Authors
 
 [kentpmckinney](https://github.com/kentpmckinney)
-<br/>
-<br/>
+<br markdown="1"/>
+<br markdown="1"/>
 
 ### Acknowledgments
 
 <sub markdown="1">https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/address-book-movie-tickets-bank-account</sub>
-<br/>
-<br/>
+<br markdown="1"/>
+<br markdown="1"/>
 
 ###### <sub markdown="1">Copyright&copy; 2020 [kentpmckinney](https://github.com/kentpmckinney). All rights reserved.</sub>
